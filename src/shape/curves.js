@@ -4,6 +4,9 @@
  * @for p5
  * @requires core
  */
+
+ //p5 rules!
+ 
 define(function (require) {
 
   'use strict';
